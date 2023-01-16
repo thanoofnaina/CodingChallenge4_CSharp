@@ -1,0 +1,15 @@
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge 4\bin\Debug\net6.0\Coding Challenge 4.exe
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge 4\bin\Debug\net6.0\Coding Challenge 4.deps.json
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge 4\bin\Debug\net6.0\Coding Challenge 4.runtimeconfig.json
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge 4\bin\Debug\net6.0\Coding Challenge 4.dll
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge 4\bin\Debug\net6.0\Coding Challenge 4.pdb
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge 4\obj\Debug\net6.0\Coding Challenge 4.csproj.AssemblyReference.cache
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge 4\obj\Debug\net6.0\Coding Challenge 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge 4\obj\Debug\net6.0\Coding Challenge 4.AssemblyInfoInputs.cache
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge 4\obj\Debug\net6.0\Coding Challenge 4.AssemblyInfo.cs
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge 4\obj\Debug\net6.0\Coding Challenge 4.csproj.CoreCompileInputs.cache
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge 4\obj\Debug\net6.0\Coding Challenge 4.dll
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge 4\obj\Debug\net6.0\refint\Coding Challenge 4.dll
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge 4\obj\Debug\net6.0\Coding Challenge 4.pdb
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge 4\obj\Debug\net6.0\Coding Challenge 4.genruntimeconfig.cache
+C:\Users\thanoof.tn\Desktop\.NET\Lab\Coding Challenge 4\obj\Debug\net6.0\ref\Coding Challenge 4.dll
